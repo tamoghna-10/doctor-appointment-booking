@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "formik": "^2.4.6",
+    "react-redux": "^9.2.0",
+    "react-toastify": "^11.0.5",
+    "redux": "^5.0.1",
+    "yup": "^1.6.1"
+  }
+}
